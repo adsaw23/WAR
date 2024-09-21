@@ -16,20 +16,20 @@ To run the War card game simulation, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/war-game.git  
+   ```
 
-   
    Replace your-username with your GitHub username
 
 
 2. **Navigate to the Project Directory**: Change into project directory:  
    ```bash
    cd WAR
-
+   ```
 
 3. **Start the Game**: To run the simulation, execute the following command:  
    ```bash
    python src/game.py
-
+   ```
 
 ### Usage
 ![Here's a sample output:](images/sample_output.png)
