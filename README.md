@@ -1,2 +1,2 @@
 # WAR
-Simulating a game of war between 
+This Python project simulates the card game 'War' between two computer players. The game involves shuffling a deck, dealing cards to each player, and playing multiple rounds where cards are compared based on rank. In the event of a tie, a 'war' is declared, and additional cards are drawn. The game continues until one player runs out of cards. This simulation demonstrates fundamental object-oriented principles using classes for Card, Deck, and Player
