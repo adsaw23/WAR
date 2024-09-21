@@ -14,12 +14,16 @@ To run the War card game simulation, follow these steps:
 1. **Clone the Repository**:
    Open your terminal and clone the repository:
    ```bash
-   git clone https://github.com/your-username/war-game.git
+   `git clone https://github.com/your-username/war-game.git`
    Replace your-username with your GitHub username
-2. **Navigate to the Project Directory**: Change into project directory
-   cd WAR
-3. **Start the Game**: To run the simulation, execute the following command
-   python src/game.py
+
+
+2. **Navigate to the Project Directory**: Change into project directory:
+   `cd WAR`
+
+
+3. **Start the Game**: To run the simulation, execute the following command:
+   `python src/game.py`
 
 
 ### Usage
@@ -27,11 +31,13 @@ To run the War card game simulation, follow these steps:
 
 
 ### Notes
-1.The game simulates a match between two computer players and continues until one player runs out of cards.
-2.Feel free to modify the game logic in the src/game.py file to add new features or change the rules.
+- The game simulates a match between two computer players and continues until one player runs out of cards.
+
+- Feel free to modify the game logic in the src/game.py file to add new features or change the rules.
 
 
 ### Upcoming Features
-1. Smarter game logic
-2. Analysis of number rounds required for the game to end for larger sample size
+-  Smarter game logic
+
+-  Analysis of number rounds required for the game to end for larger sample size
 
